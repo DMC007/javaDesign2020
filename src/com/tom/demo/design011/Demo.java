@@ -6,7 +6,7 @@ package com.tom.demo.design011;
  * @Version 1.0
  */
 public class Demo {
-    //组合模式
+    //外观模式
     public static void main(String[] args) {
         Combination combination = new Combination();
         combination.open();
